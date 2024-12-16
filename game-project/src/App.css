@@ -1,0 +1,84 @@
+/* body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #0b0d2f;
+  color: white;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.header {
+  background-color: #fbbc04;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  align-items: center;
+}
+
+.header .logo {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.header nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.header nav ul li {
+  cursor: pointer;
+}
+
+.auth-buttons button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.main-content {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.bet-list, .graph, .bet-controls {
+  background-color: #1a1c3e;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.bet-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.bet-list th, .bet-list td {
+  padding: 10px;
+  border-bottom: 1px solid #444;
+}
+
+.graph-placeholder {
+  height: 200px;
+  background: linear-gradient(to right, #333, #555);
+  margin-top: 10px;
+}
+
+.stake-input input {
+  padding: 5px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.quick-bets button, .place-bet {
+  padding: 10px;
+  margin-right: 5px;
+  background-color: #f55454;
+  color: white;
+  border: none;
+  cursor: pointer;
+} */
